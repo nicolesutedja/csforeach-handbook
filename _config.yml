@@ -1,8 +1,12 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: CSforeach
+description: Handoff guide for current and future CSforeach presidents at UC San Diego
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+# TODO: replace with your org/repo
+url: https://YOUR-ORG.github.io/YOUR-REPO
+
+search_enabled: true
+heading_anchors: true
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  CSforeach GitHub: https://github.com/YOUR-ORG/YOUR-REPO
